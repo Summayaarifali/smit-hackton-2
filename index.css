@@ -1,0 +1,50 @@
+body{
+    background-color: lavender;
+}
+span1{
+    color: deeppink;
+}
+b{
+    font-style:oblique;
+}
+container{
+
+    display: grid;
+    grid-template-columns: auto auto;
+}
+textcontainer
+imagecontainer{
+    display: flex;
+    align-items: center;
+
+}
+p1{
+    font-size: 50px;
+    color : rgb(17, 17, 61);
+    
+    
+    
+}
+span{
+    font-weight: 200;
+    color: deepskyblue;
+}
+img{
+    height: 500px;
+    width: 500px;
+    display: block;
+    float: right;
+    margin-right: 20px;
+    
+}
+a:hover{
+    color: deeppink;
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+}
+p{
+    font-size: 50px;
+    color: rgb(11, 2, 80);
+}
